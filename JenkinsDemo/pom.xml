@@ -76,13 +76,15 @@
 						
 						<suiteXmlFile>${xmlFiles}</suiteXmlFile>
 						
+						</suiteXmlFiles>
+						
 						<systemPropertyVariables> 
 							
 							<executionBrowser>${browser}</executionBrowser>
 							
 						</systemPropertyVariables>
 						
-					</suiteXmlFiles>
+					
 					
 				</configuration>
 				
