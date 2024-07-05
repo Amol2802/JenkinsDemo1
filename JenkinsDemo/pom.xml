@@ -76,6 +76,12 @@
 						
 						<suiteXmlFile>${xmlFiles}</suiteXmlFile>
 						
+						<systemPropertyVariables> 
+							
+							<executionBrowser>${browser}</executionBrowser>
+							
+						</systemPropertyVariables>
+						
 					</suiteXmlFiles>
 					
 				</configuration>
