@@ -12,6 +12,8 @@ public class TestDemo2 {
 		driver = new ChromeDriver();
 		driver.get("https://omayo.blogspot.com/");
 		driver.manage().window().maximize();
+		
+		System.out.println("*******************  This is new  statement ********************");
 
 	}
 }
