@@ -14,6 +14,8 @@ public class College {
 	public void test1TestNg() {
 		
 		System.out.println("This is Testng xml file");
+		System.out.println("This is Testng xml file------2");
+		
 	}
 	
 	
