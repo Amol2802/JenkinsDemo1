@@ -74,16 +74,18 @@
 					
 					<suiteXmlFiles>
 						
-						<suiteXmlFile>${xmlFiles}</suiteXmlFile>
+					<!--	<suiteXmlFile>${xmlFiles}</suiteXmlFile>  -->
+					
+					<suiteXmlfile>sanityLog.xml</suiteXmlfile>
 						
 						</suiteXmlFiles>
 						
-						<systemPropertyVariables> 
+			<!--			<systemPropertyVariables> 
 							
-							<executionBrowser>${browser}</executionBrowser>
+					<executionBrowser>${browser}</executionBrowser>  
 							
 						</systemPropertyVariables>
-						
+				-->
 					
 					
 				</configuration>
