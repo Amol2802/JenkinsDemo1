@@ -76,7 +76,7 @@
 						
 					<!--	<suiteXmlFile>${xmlFiles}</suiteXmlFile>  -->
 					
-					<suiteXmlfile>sanityLog.xml</suiteXmlfile>
+					<suiteXmlfile>sanityLogin.xml</suiteXmlfile>
 						
 						</suiteXmlFiles>
 						
