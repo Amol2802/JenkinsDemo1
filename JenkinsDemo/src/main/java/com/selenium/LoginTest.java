@@ -39,8 +39,6 @@ public class LoginTest {
 	//	System.out.println(pageSource); 
 		
 	    driver.close();
-	    
-	    
 
 	    // Locaters :-  id, name className , linkText, PartialLinkText, xpath, cssSelector, tagName
 	    
