@@ -31,6 +31,8 @@ public class College {
 		driver=new FirefoxDriver();
 		}
 		
+		driver.get(System.getProperty("URl"));
+		
 			driver.get("https://omayo.blogspot.com/");
 			driver.manage().window().maximize();
 			
