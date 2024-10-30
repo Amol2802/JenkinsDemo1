@@ -16,8 +16,7 @@ public class College {
 		System.out.println("This is Testng xml file------2");
 		
 	}
-	
-	
+		
 	WebDriver driver;
 	@BeforeMethod
 		public void setup() {
