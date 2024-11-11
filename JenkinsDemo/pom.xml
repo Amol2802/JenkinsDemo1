@@ -85,7 +85,7 @@
 					<systemPropertyVariables>
 
 						<executionBrowser>${browser}</executionBrowser>
-						<appUrl>${URl} </appUrl>
+					
 
 					</systemPropertyVariables>
 
