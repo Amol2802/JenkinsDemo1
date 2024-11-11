@@ -29,6 +29,6 @@ public class TestDemo2 {
 @AfterMethod
 public void closeBrowser() {
 	
-	driver.quit();
+//	driver.quit();
 }
 }
