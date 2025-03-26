@@ -76,18 +76,18 @@
 
 					<suiteXmlFiles>
 
-						<suiteXmlFile>${xmlFiles}</suiteXmlFile>  
+				<!--		<suiteXmlFile>${xmlFiles}</suiteXmlFile>   -->
 
-				<!--		<suiteXmlfile>${xmlFiles}</suiteXmlfile> -->
+						<suiteXmlfile>${xmlFiles}</suiteXmlfile>
 
 					</suiteXmlFiles>
 
-					<systemPropertyVariables>
+			<!--		<systemPropertyVariables>
 
 						<executionBrowser>${browser}</executionBrowser>
 						<appUrl>${URl} </appUrl>
 
-					</systemPropertyVariables>
+					</systemPropertyVariables>    -->
 
 
 				</configuration>
